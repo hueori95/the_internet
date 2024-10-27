@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >
+<suite name="testcheckbox">
+    <test name="testcheckbox">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="com.internet.test.checkboxes.CheckboxesTest" />
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,10 @@
+# Ignore Maven target directory
+target/
+
+# Ignore IDE files
+.idea/
+
+# Ignore other common files
+*.jar
+*.war
+*.zip
